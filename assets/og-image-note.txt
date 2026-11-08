@@ -1,0 +1,1 @@
+Optional social sharing image: create a 1200 x 630 px Justice Unheard campaign graphic, then add <meta property="og:image" content="assets/og-image.jpg"> to each page head. Use original artwork and avoid victim imagery.
